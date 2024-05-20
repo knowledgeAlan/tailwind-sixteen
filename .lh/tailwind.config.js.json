@@ -1,0 +1,18 @@
+{
+    "sourceFile": "tailwind.config.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1716201468967,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1716201468967,
+            "name": "Commit-0",
+            "content": "/** @type {import('tailwindcss').Config} */\nmodule.exports = {\n  content: [\"./src/**/*.{html,js}\"],\n  theme: {\n    extend: {\n      colors: {\n        primary: '#FF6363',\n        secondary: {\n          100: '#E2E2D5',\n          200: '#888883',\n        }\n      },\n      fontFamily: {\n        body: ['Nunito']\n      }\n    },\n  },\n  variants: {},\n  plugins: [],\n}\n\n"
+        }
+    ]
+}
